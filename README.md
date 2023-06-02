@@ -8,3 +8,4 @@ TradingView Theme
 Set up Webhook  
 Select Broker  
 Select Leverage  
+Google AD
